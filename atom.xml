@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>MelvinDong&#39;s Blog</title>
+  <icon>https://melvindong.top/icon.png</icon>
+  <subtitle>Stay hungry, stay foolish.</subtitle>
+  <link href="https://melvindong.top/atom.xml" rel="self"/>
+  
+  <link href="https://melvindong.top/"/>
+  <updated>2020-12-03T03:27:32.271Z</updated>
+  <id>https://melvindong.top/</id>
+  
+  <author>
+    <name>Melvin Dong</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>个人博客开通啦</title>
+    <link href="https://melvindong.top/archives/BlogNum1.html"/>
+    <id>https://melvindong.top/archives/BlogNum1.html</id>
+    <published>2020-12-03T03:20:02.000Z</published>
+    <updated>2020-12-03T03:27:32.271Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;这部分是摘要&lt;/p&gt;
+&lt;p&gt;个人博客成功开通！！！&lt;/p&gt;
+&lt;p&gt;感谢：&lt;a href=&quot;https://tding.top/&quot;&gt;小丁的个人博客&lt;/a&gt; &lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
